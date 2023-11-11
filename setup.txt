@@ -1,0 +1,8 @@
+Designed in Visual Studio Code
+
+To run:
+
+
+1) Open Terminal.
+
+2) Type npm start.
